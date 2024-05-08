@@ -1,6 +1,6 @@
 ---
 name: Meeting Agenda
-about: To track patterns project meeting agenda, minutes and attendance
+about: To track project meeting agenda, minutes and attendance
 title: YYYY-MM-DD - Green Software Playbooks agenda
 labels: agenda
 assignees: ''
