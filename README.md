@@ -19,6 +19,13 @@ This project entered the Green Software Foundation as a Draft on 20 March 2024.
 
 > **This is a draft document only and has not been approved or adopted by the Green Software Foundation. this draft may not be relied upon for any purpose other than review of the current state of development.**
 
+## Appointments
+
+The project is lead by:
+
+* [Mohammad Haque](https://github.com/moin-oss)
+* [Edwin Cantu](https://github.com/edwin-cantu03)
+
 ## Copyright
 This project is copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
 
