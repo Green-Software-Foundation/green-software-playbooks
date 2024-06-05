@@ -5,7 +5,7 @@ This project is aimed at providing engineering teams at Information and Communic
 This project is run through the [Community Working Group](https://github.com/Green-Software-Foundation/community-wg) in the [Green Software Foundation](https://greensoftware.foundation).
 
 ## Scope
-The primary audience is teams of developers and engineers at ICT companies, regardless of size or organization. In particular, development leads and project managers should be able to use the guides to determine what practices and recommendations would make the most sense to follow and provide the most benefit for the effort. Making development teams aware of this resource will be important to its usefulness. This project would be appropriate for any conference aimed at improving development processes and, particularly, sustainable development conferences aimed at helping engineers make their products run cleaner.
+The project aims to create detailed playbooks for teams at ICT companies regardless of the technology stack they are involved in. Any engineering team in any part of the organization should be able to find a playbook suitable for the work that they do and follow the steps in order to reduce emissions and improve the overall sustainability of their work.
 
 This project aims to address:
 
@@ -24,7 +24,7 @@ This project entered the Green Software Foundation as a Draft on 20 March 2024.
 The project is lead by:
 
 * [Mohammad Haque](https://github.com/moin-oss)
-* [Edwin Cantu](https://github.com/edwin-cantu03)
+* TBD
 
 ## Copyright
 This project is copyrighted under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/).
