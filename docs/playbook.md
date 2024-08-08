@@ -1,35 +1,26 @@
-# Green Software Playbook
+# Green Software Playbooks
 
 ## Current status
 
-The goal of this Green Software Playbook is to have some form of guidance to start pushing what we develop to be cleaner and more sustainable.
+The goal of the Green Software Playbooks is to have some form of guidance to start pushing what we develop to be cleaner and more sustainable.
 
-Below you can find the specific systems we feel we can give guidance on.  Each individual component will have a rubric created so this will be a WIP for now until we figure out the way ratings will works.
+Below are the specific roles it is appropriate to give guidance on.  Each individual role will have a playbook created; 
+this will continue to be a work-in-progress until we determine that the list is exhaustive and the level of detail sufficiently defined.
 
-## Impacted Systems
+## Roles for playbooks
 
-### Software as a Service (SaaS)
-
-* Webapps
-    * Internal query engines
-* Daemons
-    * Internal deployment services 
-* Data Science Applications
-    * Internal ML
-
-### Infrastructure as a Service (IaaS)
-
-* CI/CD
-* Caches
-* Task Management
-  * Airflow
-  * Cronjobs
-  * etc
-* Databases
-  * Database queries
-  * Data catalog(s)
-* Event Streaming 
-  * Pipelines
+- Data Science and AI / Machine learning
+- Data Engineering
+- DevOps / SRE
+- Scrum Master / PO / Project Manager
+- Architect / Principal Engineer
+- Software Engineer
+  - Mobile app developer
+  - Front-end developer
+  - UX / UI Design
+  - Back-end developer
+- End User
+  - Can split into clients and others
 
 ## Playbook Design
 
